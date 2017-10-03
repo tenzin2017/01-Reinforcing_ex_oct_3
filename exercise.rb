@@ -12,4 +12,4 @@ def draw_shape(options)
 
 end
 
-puts draw_shape({rows: 4, cols: 4, char: "*"})
+puts draw_shape({rows: 4, cols: 9, char: "0"})
